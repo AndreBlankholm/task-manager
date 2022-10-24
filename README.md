@@ -3,7 +3,7 @@
 
  ## Task Manager has:
  * "Tasks To Do" list 
- * "Add Task" button which will allow users to create a task and add it to that list.
+ * "Add Task" button which will allow users to create a task and add them to the list.
  * Ability to save and load tasks from local storage
 
 Screenshot:
